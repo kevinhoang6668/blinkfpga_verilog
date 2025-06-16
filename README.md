@@ -13,7 +13,7 @@ NOTES: Please configuration pinout function. Goodlucksssss
 - ERROR  (PR2017) : 'led_ready' cannot be placed according to constraint, for the location is a dedicated pin (READY)
 ![image](https://github.com/user-attachments/assets/2f596f28-cccd-4d76-ac38-7634b0f36b2b)
 ![image](https://github.com/user-attachments/assets/65bc3e8f-da10-4fa2-be7d-c12e4bf30739)
-If you have any legal concerns or inquiries, please contact me at: your.email@example.com
+If you have any legal concerns or inquiries, please contact me at: kevinhoang6668@gmail.com
 
 
 
