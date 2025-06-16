@@ -7,7 +7,6 @@ Tutorial step by step blink led on SIPEED TANG PRIMER KIT FPGA
 ![image](https://github.com/user-attachments/assets/3376c0ee-9435-4c1a-9d22-9f059dfec06c)
 ![image](https://github.com/user-attachments/assets/2f596f28-cccd-4d76-ac38-7634b0f36b2b)
 NOTES: Please configuration pinout function. Goodlucksssss
-- NOTE  (EX0101) : Current top module is "blink"
 - ERROR  (PR2028) : The constrained location is useless in current package
 - ERROR  (PR2017) : 'clk' cannot be placed according to constraint, for the location is a dedicated pin (CPU/SSPI)
 - ERROR  (PR2028) : The constrained location is useless in current package
