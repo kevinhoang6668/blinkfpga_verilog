@@ -2,6 +2,8 @@
 Blink FPGA Verilog GOWIN Sipeed Tang Primer 25K
 Tutorial step by step blink led on SIPEED TANG PRIMER KIT FPGA
 This is a quick-start guide at boosting excitement when getting started with a new development kit. It skips all fundamental. The fast to make an LED on the kit blink — everything easy.
+SIPEED TANG PRIMER 25K PINOUT NAME IMG
+![SIPEED TANG PRIMER 25K PINOUT NAME](https://github.com/user-attachments/assets/fd9079ce-ed65-49d5-8f95-94f74de5b9e8)
 1. Open file with GOWIN FPGA Designer.
 2. ...
 ![image](https://github.com/user-attachments/assets/cbb37ba4-d999-4c9e-bc7e-ef70b27e5136)
